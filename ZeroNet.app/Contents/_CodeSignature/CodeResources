@@ -20,18 +20,6 @@
 		<data>
 		nU4PbRFXxtjzR8KuF1OX1oK6CWA=
 		</data>
-		<key>Resources/core/.github/FUNDING.yml</key>
-		<data>
-		pjv8STOVa4iGGaGLloyG+Z3uSqc=
-		</data>
-		<key>Resources/core/.github/ISSUE_TEMPLATE/bug-report.md</key>
-		<data>
-		1cURMVoaqwv5q0cY7QESNIQGgak=
-		</data>
-		<key>Resources/core/.github/ISSUE_TEMPLATE/feature_request.md</key>
-		<data>
-		07orL68Hd3vfcOuTaYVCyvg3oEw=
-		</data>
 		<key>Resources/core/.gitignore</key>
 		<data>
 		R40DwljBEpEAAdejrSSWoWkwiZw=
@@ -2707,39 +2695,6 @@
 			<key>hash2</key>
 			<data>
 			Lwdv69tSIw+Z7/0BZY9A/6puxsJhBTWJCngzpYfJfvo=
-			</data>
-		</dict>
-		<key>Resources/core/.github/FUNDING.yml</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			pjv8STOVa4iGGaGLloyG+Z3uSqc=
-			</data>
-			<key>hash2</key>
-			<data>
-			3STornOW7drpYy9UyhFSGDzcNtai6kg2pxITRTn+FI8=
-			</data>
-		</dict>
-		<key>Resources/core/.github/ISSUE_TEMPLATE/bug-report.md</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1cURMVoaqwv5q0cY7QESNIQGgak=
-			</data>
-			<key>hash2</key>
-			<data>
-			3mThL4MUzytDCwEApH6eFxFGmRtZPQFIXa+DVLpwNkw=
-			</data>
-		</dict>
-		<key>Resources/core/.github/ISSUE_TEMPLATE/feature_request.md</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			07orL68Hd3vfcOuTaYVCyvg3oEw=
-			</data>
-			<key>hash2</key>
-			<data>
-			T7eG+B3LEw4DyrB6rScmUESgKoxG3iuZ/YnCzPwuoNY=
 			</data>
 		</dict>
 		<key>Resources/core/.gitignore</key>
