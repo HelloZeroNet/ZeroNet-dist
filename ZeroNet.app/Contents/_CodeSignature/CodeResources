@@ -14,7 +14,7 @@
 		</data>
 		<key>Resources/__pycache__/site.cpython-37.pyc</key>
 		<data>
-		MTxvyOlMN4g5ZSskQcVVuj9UGqk=
+		ePLCwTmRkMSf9+aXhhQPvvKXuHk=
 		</data>
 		<key>Resources/boot.py</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Resources/core/.gitignore</key>
 		<data>
-		R40DwljBEpEAAdejrSSWoWkwiZw=
+		SVxpCGfZH36T3MYPFso5jf/bUaM=
 		</data>
 		<key>Resources/core/.gitlab-ci.yml</key>
 		<data>
@@ -438,7 +438,7 @@
 		</data>
 		<key>Resources/core/plugins/Sidebar/media/all.css</key>
 		<data>
-		CnxcxnnMA4T9QvfFS+LtrLMDdjY=
+		4IBkDOvM/qb4N0rtF/sh2n1OJDo=
 		</data>
 		<key>Resources/core/plugins/Sidebar/media/all.js</key>
 		<data>
@@ -730,15 +730,11 @@
 		</data>
 		<key>Resources/core/plugins/Zeroname/SiteManagerPlugin.py</key>
 		<data>
-		WoEEvbFUFkYqT2gU0gWvX+RFmXU=
-		</data>
-		<key>Resources/core/plugins/Zeroname/UiRequestPlugin.py</key>
-		<data>
-		of/61BNwP0XKoWhekZ7DbVG1MFQ=
+		QuJR0GL6JJHV7vZKzhBnOxdj7Qs=
 		</data>
 		<key>Resources/core/plugins/Zeroname/__init__.py</key>
 		<data>
-		flN2NDsUEnj/2XppTkxZhCJlfxo=
+		maeciGJDRrubuuog8R8qQnOCvK4=
 		</data>
 		<key>Resources/core/plugins/Zeroname/updater/zeroname_updater.py</key>
 		<data>
@@ -786,7 +782,7 @@
 		</data>
 		<key>Resources/core/plugins/disabled-Multiuser/MultiuserPlugin.py</key>
 		<data>
-		DyvZgTVWXfGrygATlCWtm9cU6dQ=
+		RPcx1i0jVDHpvN4ml5M30JsOQ94=
 		</data>
 		<key>Resources/core/plugins/disabled-Multiuser/UserPlugin.py</key>
 		<data>
@@ -838,11 +834,11 @@
 		</data>
 		<key>Resources/core/requirements.txt</key>
 		<data>
-		lGSOlul27MiNP91W/71Yv2UTypc=
+		vpkSRrTBSw1Wndz5ZpPLEeLsezM=
 		</data>
 		<key>Resources/core/src/Config.py</key>
 		<data>
-		o5xmAiRgvlR7K3gs7iOHVkXxaYg=
+		gbF9eGma4yZlODpRc5uSmpr9s+w=
 		</data>
 		<key>Resources/core/src/Connection/Connection.py</key>
 		<data>
@@ -874,11 +870,11 @@
 		</data>
 		<key>Resources/core/src/Crypt/CryptBitcoin.py</key>
 		<data>
-		KCrGdgCxq39JDwDH7+zecBFy8c0=
+		SHAy87qHfMVj7Lvr+zC9yxYpgbg=
 		</data>
 		<key>Resources/core/src/Crypt/CryptConnection.py</key>
 		<data>
-		xeXTPNHZdP5BL7WXW7ovy5TA3ow=
+		UbkjK2Ne4kD2NSJkQbFqWjQY5Ws=
 		</data>
 		<key>Resources/core/src/Crypt/CryptHash.py</key>
 		<data>
@@ -894,11 +890,11 @@
 		</data>
 		<key>Resources/core/src/Db/Db.py</key>
 		<data>
-		TmqOVk2SHDk23M7EQZRwbMo9KyI=
+		W7ngVSichsI5G34I0YwX3XGsEtg=
 		</data>
 		<key>Resources/core/src/Db/DbCursor.py</key>
 		<data>
-		aDVGQl0iQMvNGwokdvQIJJF9W1g=
+		zGJuky7XLH1tVP1SQDl5v+sVVgM=
 		</data>
 		<key>Resources/core/src/Db/DbQuery.py</key>
 		<data>
@@ -1382,7 +1378,7 @@
 		</data>
 		<key>Resources/core/src/util/OpensslFindPatch.py</key>
 		<data>
-		h/LVgF11by+qabyhfAIlbeJkmPY=
+		N37Rla+ajCi4tzCVF1y0DCxsoTo=
 		</data>
 		<key>Resources/core/src/util/Platform.py</key>
 		<data>
@@ -1446,7 +1442,7 @@
 		</data>
 		<key>Resources/core/zeronet.py</key>
 		<data>
-		rVxKednIoV7M18kl6UNgqQBRlMs=
+		+zGxof6RgQ7j57tgdzVdyRx5Obc=
 		</data>
 		<key>Resources/lib/python3.7/asn1crypto/__init__.py</key>
 		<data>
@@ -2058,7 +2054,7 @@
 		</data>
 		<key>Resources/lib/python3.7/site-packages/coincurve/_libsecp256k1.cpython-37m-darwin.so</key>
 		<data>
-		wD2hvYfG5eRlP+BRsu9wjRsM4Oc=
+		zEtdLZph/tIzHFJOqUr3F7famW4=
 		</data>
 		<key>Resources/lib/python3.7/site-packages/coincurve/_windows_libsecp256k1.py</key>
 		<data>
@@ -2082,7 +2078,7 @@
 		</data>
 		<key>Resources/lib/python3.7/site-packages/coincurve/utils.py</key>
 		<data>
-		3iIRUnjhDb2NTir44g01B9XTMQE=
+		t7PwzTi9EF/J2dr+6GV74PJk4QA=
 		</data>
 		<key>Resources/lib/python3.7/site-packages/gevent/__abstract_linkable.cpython-37m-darwin.so</key>
 		<data>
@@ -2582,11 +2578,31 @@
 		</data>
 		<key>Resources/lib/python37.zip</key>
 		<data>
-		4iX+BlRp3u+2Mfo9QqqUiS4nodg=
+		vgTEr5QhcDyXwSqIDS82iFhpgo8=
+		</data>
+		<key>Resources/lib/tcl8.6/auto.tcl</key>
+		<data>
+		s1YoYAXvtKOkah/dU+T83EBladA=
+		</data>
+		<key>Resources/lib/tcl8.6/init.tcl</key>
+		<data>
+		b93VlabiDqvXL6v2XkcLRcqD9Tk=
+		</data>
+		<key>Resources/lib/tcl8.6/tclIndex</key>
+		<data>
+		/4UPXRvY78Goy3Zf6CITMPDGxpk=
+		</data>
+		<key>Resources/lib/tk8.6/console.tcl</key>
+		<data>
+		bua+DImkyE2OTbnIbmPhY8wp+eA=
+		</data>
+		<key>Resources/lib/tk8.6/tk.tcl</key>
+		<data>
+		DO6O15UOP3C/yyF8Dea7nUBTrJg=
 		</data>
 		<key>Resources/site.pyc</key>
 		<data>
-		MMcU7jiZsoVN5QcUkfmIDfd9DbM=
+		P51fNlOCrTfOcWn97H/cZb92OXg=
 		</data>
 		<key>Resources/zeronet.icns</key>
 		<data>
@@ -2679,11 +2695,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MTxvyOlMN4g5ZSskQcVVuj9UGqk=
+			ePLCwTmRkMSf9+aXhhQPvvKXuHk=
 			</data>
 			<key>hash2</key>
 			<data>
-			/0mfv5AYUX4GoRsWWyNsAuS2AKGV1+xFSrTVFeQ03U4=
+			M4eUcsGc2Bk4mL9/kDixqiRqtM5hM3MBsdHcvshlhuU=
 			</data>
 		</dict>
 		<key>Resources/boot.py</key>
@@ -2701,11 +2717,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			R40DwljBEpEAAdejrSSWoWkwiZw=
+			SVxpCGfZH36T3MYPFso5jf/bUaM=
 			</data>
 			<key>hash2</key>
 			<data>
-			zlO0H3HS060HR2l4smk00hAFsy0znbgcakpe4mcoID0=
+			bA94S3r3PcfYsC0znuiz+BCAc5t38aBJ88Pd4cEwr+s=
 			</data>
 		</dict>
 		<key>Resources/core/.gitlab-ci.yml</key>
@@ -3845,11 +3861,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CnxcxnnMA4T9QvfFS+LtrLMDdjY=
+			4IBkDOvM/qb4N0rtF/sh2n1OJDo=
 			</data>
 			<key>hash2</key>
 			<data>
-			yPIg4W5UvGNQntKIsgkYUNftRr1JX6ydVekPD/Ds8Ho=
+			6Dq1uJESdp8dlSAlQotfbnIIWa4HJl9c13hm2g2WeyI=
 			</data>
 		</dict>
 		<key>Resources/core/plugins/Sidebar/media/all.js</key>
@@ -4648,33 +4664,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WoEEvbFUFkYqT2gU0gWvX+RFmXU=
+			QuJR0GL6JJHV7vZKzhBnOxdj7Qs=
 			</data>
 			<key>hash2</key>
 			<data>
-			JvnAkVyhYYo5rGk/beq93qyNXgvHXU0uEHfDoAZCMrE=
-			</data>
-		</dict>
-		<key>Resources/core/plugins/Zeroname/UiRequestPlugin.py</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			of/61BNwP0XKoWhekZ7DbVG1MFQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			qqUl4P6+Me+pucnNVOuMZsDCssfQKjIL7V511dN0hWE=
+			W8aseMe4gha+93xLkP/Fci4J60a2NbxNjlc3V+45ZqA=
 			</data>
 		</dict>
 		<key>Resources/core/plugins/Zeroname/__init__.py</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			flN2NDsUEnj/2XppTkxZhCJlfxo=
+			maeciGJDRrubuuog8R8qQnOCvK4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y5DvYcP7TN+aUIX+rjVDsaEMySbGX3Tf0vOm0Crv6Rw=
+			f5d2Kc1NG8fwf8CuRjnW0y9Ksv1P0IDtZN+nqVe4cpY=
 			</data>
 		</dict>
 		<key>Resources/core/plugins/Zeroname/updater/zeroname_updater.py</key>
@@ -4802,11 +4807,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DyvZgTVWXfGrygATlCWtm9cU6dQ=
+			RPcx1i0jVDHpvN4ml5M30JsOQ94=
 			</data>
 			<key>hash2</key>
 			<data>
-			brhlB8AQJLAc0nkdcPNBA3V70GhMlh4mlB4TMCppHOA=
+			1rlYJc3MYeD+DQ2nM2sgMJyKGlM4JxYV3uV6NZfAiXE=
 			</data>
 		</dict>
 		<key>Resources/core/plugins/disabled-Multiuser/UserPlugin.py</key>
@@ -4945,22 +4950,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lGSOlul27MiNP91W/71Yv2UTypc=
+			vpkSRrTBSw1Wndz5ZpPLEeLsezM=
 			</data>
 			<key>hash2</key>
 			<data>
-			7vN3km5BnJ2NZtFnZrIR1MQoSSHXYO3Uz/wQGVzttG0=
+			DEqo+OEjJXBYs3sNw4OF/hOchVXCjhRMd92NUOuoDsY=
 			</data>
 		</dict>
 		<key>Resources/core/src/Config.py</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			o5xmAiRgvlR7K3gs7iOHVkXxaYg=
+			gbF9eGma4yZlODpRc5uSmpr9s+w=
 			</data>
 			<key>hash2</key>
 			<data>
-			Kkc1bObeNGZwHG9QUFCIOaT5ekUluqM7FqQgIYQt5/U=
+			5GA8HQ04IdMj6N5cAB/4I5B9s8mkwKfDAHd3eU3OPLg=
 			</data>
 		</dict>
 		<key>Resources/core/src/Connection/Connection.py</key>
@@ -5044,22 +5049,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KCrGdgCxq39JDwDH7+zecBFy8c0=
+			SHAy87qHfMVj7Lvr+zC9yxYpgbg=
 			</data>
 			<key>hash2</key>
 			<data>
-			arR0Ln0Ppy1pM8fpWpC7S16sqS4fUgrbV1ESsK4vGbE=
+			LdeWxRPSJ/bbMYyyyzHdmVhMFA595jO4Ha9/AjDagDA=
 			</data>
 		</dict>
 		<key>Resources/core/src/Crypt/CryptConnection.py</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xeXTPNHZdP5BL7WXW7ovy5TA3ow=
+			UbkjK2Ne4kD2NSJkQbFqWjQY5Ws=
 			</data>
 			<key>hash2</key>
 			<data>
-			rOYuElu9oCqtEpkxUiq+zo4XC34ysommimIKkj06wFQ=
+			eoZ8EhtXuFZNSxZ50Abx8hBYMINx7fYF1b426Dq/7B8=
 			</data>
 		</dict>
 		<key>Resources/core/src/Crypt/CryptHash.py</key>
@@ -5099,22 +5104,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TmqOVk2SHDk23M7EQZRwbMo9KyI=
+			W7ngVSichsI5G34I0YwX3XGsEtg=
 			</data>
 			<key>hash2</key>
 			<data>
-			n7HLGcaRsUJXNAwpsFeZoHbT71Bt57yFl0aLJDtIW10=
+			4VarXF11x2GIIaIj33D7hYjCudNUtBjwrI7lvPbTxqM=
 			</data>
 		</dict>
 		<key>Resources/core/src/Db/DbCursor.py</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aDVGQl0iQMvNGwokdvQIJJF9W1g=
+			zGJuky7XLH1tVP1SQDl5v+sVVgM=
 			</data>
 			<key>hash2</key>
 			<data>
-			d9IDiACeA6QSaQEdksgMk6D/d5HJ+NgJjhHH5Hdqx9Q=
+			v8b3nlTRo3UNI1yMUQohhRyL2TZIgaGMSqx3rkwLiBk=
 			</data>
 		</dict>
 		<key>Resources/core/src/Db/DbQuery.py</key>
@@ -6441,11 +6446,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			h/LVgF11by+qabyhfAIlbeJkmPY=
+			N37Rla+ajCi4tzCVF1y0DCxsoTo=
 			</data>
 			<key>hash2</key>
 			<data>
-			0yCRsL17uzIP/Zy60fD09nj98RTikI/tFHPnj31+0V4=
+			GaJ5nnlwfmU81iC16UMM1GKK2t6vB4Hdf7W0/gTURts=
 			</data>
 		</dict>
 		<key>Resources/core/src/util/Platform.py</key>
@@ -6617,11 +6622,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rVxKednIoV7M18kl6UNgqQBRlMs=
+			+zGxof6RgQ7j57tgdzVdyRx5Obc=
 			</data>
 			<key>hash2</key>
 			<data>
-			uVcciCooDYCZtCzO0+phB7M1dIAmnkQmM4dpcalWgzc=
+			/V1PVRU0WzvspxLKyUuyOuPxGW9AwkGH2qTT3zEeD/8=
 			</data>
 		</dict>
 		<key>Resources/lib/python3.7/asn1crypto/__init__.py</key>
@@ -8300,11 +8305,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wD2hvYfG5eRlP+BRsu9wjRsM4Oc=
+			zEtdLZph/tIzHFJOqUr3F7famW4=
 			</data>
 			<key>hash2</key>
 			<data>
-			dyrKzJ1ZfRePx6UHQiQxeEmVZKSWECQ7KABPNoOTJ3k=
+			TzSSuF2aB1Aj2Xsrsf7OJVRNAdkyPBqgX/cizilgSJg=
 			</data>
 		</dict>
 		<key>Resources/lib/python3.7/site-packages/coincurve/_windows_libsecp256k1.py</key>
@@ -8366,11 +8371,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3iIRUnjhDb2NTir44g01B9XTMQE=
+			t7PwzTi9EF/J2dr+6GV74PJk4QA=
 			</data>
 			<key>hash2</key>
 			<data>
-			8gELd4Qh1w+qeI6sxlSQt7+HVKxWTSLkObpVCg1fp7A=
+			2rxZyLR5dpA45IN+8TUinv+FZSqcsj3tuwmxVppwRig=
 			</data>
 		</dict>
 		<key>Resources/lib/python3.7/site-packages/gevent/__abstract_linkable.cpython-37m-darwin.so</key>
@@ -9741,22 +9746,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4iX+BlRp3u+2Mfo9QqqUiS4nodg=
+			vgTEr5QhcDyXwSqIDS82iFhpgo8=
 			</data>
 			<key>hash2</key>
 			<data>
-			lhxDsrjoOiFUSNQdRgcbHBFNZr+CHHNsnFqABhUsLS0=
+			H+KpbrcjMh7hqxLj1eyGXHc+C3BynWywlsu65eNrQMM=
+			</data>
+		</dict>
+		<key>Resources/lib/tcl8.6/auto.tcl</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s1YoYAXvtKOkah/dU+T83EBladA=
+			</data>
+			<key>hash2</key>
+			<data>
+			84VRVliDL+t17k3OW9U/f2fyYpB3t9BJuGpzCkm9CEA=
+			</data>
+		</dict>
+		<key>Resources/lib/tcl8.6/init.tcl</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			b93VlabiDqvXL6v2XkcLRcqD9Tk=
+			</data>
+			<key>hash2</key>
+			<data>
+			CdYKnsPFG63OyTsq33vWeeUAlKuUWWj2UPrYmUg+KdE=
+			</data>
+		</dict>
+		<key>Resources/lib/tcl8.6/tclIndex</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/4UPXRvY78Goy3Zf6CITMPDGxpk=
+			</data>
+			<key>hash2</key>
+			<data>
+			q/fZ0eht6TEJbCGCC/pP1w2x9VAF0ttKpnTYYgCGeAY=
+			</data>
+		</dict>
+		<key>Resources/lib/tk8.6/console.tcl</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bua+DImkyE2OTbnIbmPhY8wp+eA=
+			</data>
+			<key>hash2</key>
+			<data>
+			zUVRZFA30Y3+romMWSMJrX6d9miNbD/ZqMdURisgJ4U=
+			</data>
+		</dict>
+		<key>Resources/lib/tk8.6/tk.tcl</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DO6O15UOP3C/yyF8Dea7nUBTrJg=
+			</data>
+			<key>hash2</key>
+			<data>
+			R3SDjuBe8M1/hz41nr/R0wcCjiFn9v+evsF3dWOU12k=
 			</data>
 		</dict>
 		<key>Resources/site.pyc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MMcU7jiZsoVN5QcUkfmIDfd9DbM=
+			P51fNlOCrTfOcWn97H/cZb92OXg=
 			</data>
 			<key>hash2</key>
 			<data>
-			WsXdnEZYxOfaymvxXQGPszwXVhfQyZ1w+dX19yUTVn8=
+			3sv5LNt92XR9mq3v6UAzgXCbPL9q6i/Gc9lmiLGlg4M=
 			</data>
 		</dict>
 		<key>Resources/zeronet.icns</key>

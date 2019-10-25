@@ -48,8 +48,6 @@
 		<false/>
 		<key>no_chdir</key>
 		<false/>
-		<key>optimize</key>
-		<integer>2</integer>
 		<key>prefer_ppc</key>
 		<false/>
 		<key>site_packages</key>
